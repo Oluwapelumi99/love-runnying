@@ -233,6 +233,6 @@ main
 }
 
 #benefits-physical > div {
-    align-self: flex-end;
+    align-self: flex-end; 
 }
 }
